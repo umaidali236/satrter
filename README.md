@@ -83,7 +83,7 @@
 
 ---
 
-### Your favicon is now displayed in the browser tab  
+### The emoji is now displayed in the browser tab  
 
 ![Favicon](documentation/images/favicon5.png)
 
