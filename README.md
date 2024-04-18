@@ -10,9 +10,9 @@
 
 ## 1. W3Schools  
 
-#### W3Schools is a popular online platform that provides web development tutorials and references for various web technologies. It serves as a comprehensive resource for individuals who are learning or looking to enhance their skills in HTML, CSS, JavaScript
+#### -W3Schools is a popular online platform that provides web development tutorials and references for various web technologies. It serves as a comprehensive resource for individuals who are learning or looking to enhance their skills in HTML, CSS, JavaScript
 
-#### In addition to tutorials, W3Schools also provides comprehensive references for various web technologies, which serve as handy guides for developers when they need quick information or syntax references
+#### -In addition to tutorials, W3Schools also provides comprehensive references for various web technologies, which serve as handy guides for developers when they need quick information or syntax references
 
 > 1. Learn HTML
 (<https://www.w3schools.com/html/default.asp>)
