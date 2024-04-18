@@ -39,7 +39,7 @@
 
 ![Font Awesome Libraries](documentation/images/font-awesome-link-tag.PNG)
 
-> **3. fontawesome :** <https://fontawesome.com/>
+> 3.**fontawesome :** <https://fontawesome.com/>
 
 ### Select an icon and customize it if you want  
 
