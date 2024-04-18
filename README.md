@@ -13,13 +13,13 @@
 - W3Schools is a popular online platform that provides web development tutorials and references for various web technologies. It serves as a comprehensive resource for individuals who are learning or looking to enhance their skills in HTML, CSS, JavaScript.
 - In addition to tutorials, W3Schools also provides comprehensive references for various web technologies, which serve as handy guides for developers when they need quick information or syntax references.The links are provided below :
 
-> 1. Learn HTML
+> 1. Learn HTML :
 <https://www.w3schools.com/html/default.asp>
 
-> 2. Learn CSS
+> 2. Learn CSS :
 <https://www.w3schools.com/css/default.asp>
 
-> 3. Learn JS
+> 3. Learn JS :
 <https://www.w3schools.com/js/default.asp>
 
 ## 2. Font Awsome
