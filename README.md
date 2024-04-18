@@ -22,7 +22,7 @@
 > 3. Learn JS :
 <https://www.w3schools.com/js/default.asp>
 
-## 2. Font Awsome
+## 2. Font Awesome
 
-> 1. Font Awsome Libraries
+> 1. Font Awesome Libraries
 <https://cdnjs.com/libraries/font-awesome>
