@@ -14,7 +14,7 @@
 - In addition to tutorials, W3Schools also provides comprehensive references for various web technologies, which serve as handy guides for developers when they need quick information or syntax references.The links are provided below :
 
 > 1. Learn HTML
-(<https://www.w3schools.com/html/default.asp>)
+<https://www.w3schools.com/html/default.asp>
 
 > 2. Learn CSS
 <https://www.w3schools.com/css/default.asp>
