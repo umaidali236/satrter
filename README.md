@@ -38,3 +38,7 @@
 ### Paste it in the HEAD section  
 
 ![Font Awesome Libraries](documentation/images/font-awesome-link-tag.PNG)  
+
+### Select an icon and customize it if you want  
+
+![Font Awesome Libraries](documentation/images/fa-icon.PN)
