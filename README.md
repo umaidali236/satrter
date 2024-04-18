@@ -22,8 +22,10 @@
 > 3. Learn JS :
 <https://www.w3schools.com/js/default.asp>
 
-## 2. Font Awesome
+## 2. cdnjs
 
-> 1. Font Awesome Libraries :
+- cdnjs is a free and open-source software (FOSS) content delivery network (CDN) hosted by Cloudflare.It provides a large collection of popular  JavaScript and CSS libraries.
+
+> 1. font-awesome Library :
 <https://cdnjs.com/libraries/font-awesome>
 ![Font Awesome Libraries](documentation/images/font-awesome-lib.PNG)
