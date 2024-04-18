@@ -61,15 +61,21 @@
 
 ### Click on the emoji section
 
-![Favicon](documentation/images/favicon1.PNG)
+![Favicon](documentation/images/favicon1.PNG)  
+
+---
 
 ### Select an emoji
 
-![Favicon](documentation/images/favicon2.PNG)
+![Favicon](documentation/images/favicon2.PNG)  
+
+---
 
 ### Download the emoji
 
-![Favicon](documentation/images/favicon3.PNG)
+![Favicon](documentation/images/favicon3.PNG)  
+
+---
 
 ### Paste it in the HEAD section
 
