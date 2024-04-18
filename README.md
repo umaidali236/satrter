@@ -81,7 +81,9 @@
 
 ![Favicon](documentation/images/favicon4.PNG)
 
-## 4. Color Hunt
+## 4. Color Hunt  
+
+- Color Hunt is an open collection of color palettes. This tool serves thousands of color schemes for many different design and art purposes.
 
 > Website Link : <https://colorhunt.co/>
 
@@ -89,7 +91,9 @@
 
 You can get different color palettes for your website
 
-## 5. Font.Google
+## 5. Font.Google  
+
+- Google Fonts makes it easy to bring personality and performance to your websites and products.Their catalog of open-source fonts and icons, makes it easy to integrate expressive type and icons seamlessly.
 
 > Website Link :  <https://fonts.google.com/>
 
