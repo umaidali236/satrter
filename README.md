@@ -41,4 +41,4 @@
 
 ### Select an icon and customize it if you want  
 
-![Font Awesome Libraries](documentation/images/fa-icon.PN)
+![Font Awesome Libraries](documentation/images/fa-icon.PNG)
