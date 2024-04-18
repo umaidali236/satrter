@@ -57,7 +57,7 @@
 
 ## 4. Favicon
 
-Favicon : <https://favicon.io/>  
+> Website Link : <https://favicon.io/>  
 
 ### Click on the emoji section
 
@@ -77,7 +77,7 @@ Favicon : <https://favicon.io/>
 
 ## 4. Color Hunt
 
-Color Hunt <https://colorhunt.co/>
+> Website Link : <https://colorhunt.co/>
 
 ![Color Hunt](documentation/images/color-hunt.PNG)
 
@@ -85,7 +85,7 @@ You can get different color palettes for your website
 
 ## 5. Font.Google
 
-Fonts.Google <https://fonts.google.com/>
+> Website Link :  <https://fonts.google.com/>
 
 ![Google Fonts](documentation/images/google-fonts.PNG)
 
