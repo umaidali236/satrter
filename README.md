@@ -41,4 +41,8 @@
 
 ### Select an icon and customize it if you want  
 
-![Font Awesome Libraries](documentation/images/fa-icon.PNG)
+![Font Awesome Libraries](documentation/images/fa-icon.PNG)  
+
+### Copy its HTML code and paste it in the BODY section  
+
+![Font Awesome Libraries](documentation/images/fa-icon-code.PNG)
