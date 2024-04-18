@@ -39,7 +39,7 @@
 
 ![Font Awesome Libraries](documentation/images/font-awesome-link-tag.PNG)
 
-> 3.**fontawesome :** <https://fontawesome.com/>
+> ## fontawesome : <https://fontawesome.com/>
 
 ### Select an icon and customize it if you want  
 
@@ -47,4 +47,8 @@
 
 ### Copy its HTML code and paste it in the BODY section  
 
-![Font Awesome Libraries](documentation/images/fa-icon-code.PNG)
+![Font Awesome Libraries](documentation/images/fa-icon-code.PNG)  
+
+### It is now displayed in your webpage  
+
+![Font Awesome Libraries](documentation/images/fa-icon-display.PNG)
