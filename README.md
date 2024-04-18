@@ -31,7 +31,9 @@
 
 ### Copy the link tag highlighted in the image below
 
-![Font Awesome Libraries](documentation/images/font-awesome-lib.PNG)
+![Font Awesome Libraries](documentation/images/font-awesome-lib.PNG)  
+
+---
 
 ### Paste it in the HEAD section  
 
@@ -45,9 +47,13 @@
 
 ![Font Awesome Libraries](documentation/images/fa-icon.PNG)  
 
+---
+
 ### Copy its HTML code and paste it in the BODY section  
 
 ![Font Awesome Libraries](documentation/images/fa-icon-code.PNG)  
+
+---
 
 ### It is now displayed in your webpage  
 
