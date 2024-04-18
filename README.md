@@ -81,9 +81,11 @@
 
 ![Favicon](documentation/images/favicon4.PNG)  
 
+---
+
 ### Your favicon is now displayed in the browser tab  
 
-![Favicon](documentation/images/favicon5.PNG)
+![Favicon](documentation/images/favicon5.png)
 
 ## 4. Color Hunt  
 
