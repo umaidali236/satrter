@@ -39,7 +39,7 @@
 
 ![Font Awesome Libraries](documentation/images/font-awesome-link-tag.PNG)
 
-> ## fontawesome : <https://fontawesome.com/>
+## 3. fontawesome : <https://fontawesome.com/>
 
 ### Select an icon and customize it if you want  
 
@@ -51,4 +51,40 @@
 
 ### It is now displayed in your webpage  
 
-![Font Awesome Libraries](documentation/images/fa-icon-display.PNG)
+![Font Awesome Libraries](documentation/images/fa-icon-display.PNG)  
+
+## 4. Favicon
+
+Favicon : <https://favicon.io/>  
+
+### Click on the emoji section
+
+![Favicon](documentation/images/favicon1.PNG)
+
+### Select an emoji
+
+![Favicon](documentation/images/favicon2.PNG)
+
+### Download the emoji
+
+![Favicon](documentation/images/favicon3.PNG)
+
+### Paste it in the HEAD section
+
+![Favicon](documentation/images/favicon4.PNG)
+
+## 4. Color Hunt
+
+Color Hunt <https://colorhunt.co/>
+
+![Color Hunt](documentation/images/color-hunt.PNG)
+
+You can get different color palettes for your website
+
+## 5. Font.Google
+
+Fonts.Google <https://fonts.google.com/>
+
+![Google Fonts](documentation/images/google-fonts.PNG)
+
+You can get different  fonts for your website
