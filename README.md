@@ -24,6 +24,6 @@
 
 ## 2. Font Awesome
 
-> 1. Font Awesome Libraries
+> 1. Font Awesome Libraries :
 <https://cdnjs.com/libraries/font-awesome>
-![Font Awesome Libraries](documentation/images/font-awesome-lib.PNG)
+![Font Awesome Libraries](documentation\images\font-awesome-lib.PNG)
