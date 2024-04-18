@@ -15,9 +15,9 @@
 
 > 1. Learn HTML : <https://www.w3schools.com/html/default.asp>
 >
-> 2;. Learn CSS : <https://www.w3schools.com/css/default.asp>
+> 2. Learn CSS : <https://www.w3schools.com/css/default.asp>
 >
-> 3;. Learn JS : <https://www.w3schools.com/js/default.asp>
+> 3. Learn JS : <https://www.w3schools.com/js/default.asp>
 
 ## 2. cdnjs
 
@@ -75,7 +75,7 @@
 
 ---
 
-### Paste it in the HEAD section
+### Paste it inside the HEAD section
 
 ![Favicon](documentation/images/favicon4.PNG)  
 
