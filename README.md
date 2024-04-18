@@ -1,6 +1,6 @@
 # Usefull Websites for Web Development  
 
-### Software/Tools
+### Software/Tools used
 
 > 1. OS: Windows 10/11 x64
 > 2. Visual Studio Code
