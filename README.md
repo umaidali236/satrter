@@ -30,9 +30,7 @@
 <https://cdnjs.com/libraries/font-awesome>  
 
 ---
- Copy the link tag highlighted in the image below :
-
----
+ Copy the link tag highlighted in the image below : ---
 ![Font Awesome Libraries](documentation/images/font-awesome-lib.PNG)
 
 Paste it in the HEAD section  
