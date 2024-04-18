@@ -8,7 +8,9 @@
 
 # Lets Get Started
 
-## 1. W3Schools
+## 1. W3Schools  
+
+### W3Schools is a popular online platform that provides web development tutorials and references for various web technologies. It serves as a comprehensive resource for individuals who are learning or looking to enhance their skills in HTML, CSS, JavaScript
 
 > 1. Learn HTML
 (<https://www.w3schools.com/html/default.asp>)
