@@ -26,9 +26,7 @@
 
 - cdnjs is a free and open-source software (FOSS) content delivery network (CDN) hosted by Cloudflare.It provides a large collection of popular  JavaScript and CSS libraries.
 
-> ### font-awesome Library :
-
-<https://cdnjs.com/libraries/font-awesome>  
+> ### font-awesome Library : <https://cdnjs.com/libraries/font-awesome>  
 
 ---
 
