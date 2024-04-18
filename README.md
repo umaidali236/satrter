@@ -79,7 +79,11 @@
 
 ### Paste it in the HEAD section
 
-![Favicon](documentation/images/favicon4.PNG)
+![Favicon](documentation/images/favicon4.PNG)  
+
+### Your favicon is now displayed in the browser tab  
+
+![Favicon](documentation/images/favicon5.PNG)
 
 ## 4. Color Hunt  
 
@@ -89,8 +93,6 @@
 
 ![Color Hunt](documentation/images/color-hunt.PNG)
 
-You can get different color palettes for your website
-
 ## 5. Font.Google  
 
 - Google Fonts makes it easy to bring personality and performance to your websites and products.Their catalog of open-source fonts and icons, makes it easy to integrate expressive type and icons seamlessly.
@@ -98,5 +100,3 @@ You can get different color palettes for your website
 > Website Link :  <https://fonts.google.com/>
 
 ![Google Fonts](documentation/images/google-fonts.PNG)
-
-You can get different  fonts for your website
