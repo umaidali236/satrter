@@ -10,7 +10,7 @@
  ###    and write some code inside these files .
                         
 
-### 3. Now to publish your website , go to your repository and click on <mark>Settings</mark> located at the end of the horizontal menu at the top.
+ 3. Now to publish your website , go to your repository and click on ==Settings== located at the end of the horizontal menu at the top.
 
 ### 4. Then click on ==Pages== on the sidebar menu.
 
