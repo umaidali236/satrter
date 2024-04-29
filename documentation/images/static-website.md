@@ -3,7 +3,7 @@
 1. Create a Repository
 
 2. Create a folder "src" and create the following files :
-  > <ol>index.html</ol>
-  > <ul>styles.css</ul>
-  > <ul>script.js</ul>
+  > index.html
+  > styles.css
+  > script.js
 
