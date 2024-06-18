@@ -1,4 +1,4 @@
-#  Hosting a static website in GitHub 
+#  Hosting a static website in GitHub  
 
 #### 1. Create a Repository
 
