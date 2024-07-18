@@ -1,5 +1,5 @@
 #  Hosting a static website in GitHub  
- 
+  
 #### 1. Create a Repository
 
 #### 2. Create a folder named "src" and create the following files :
